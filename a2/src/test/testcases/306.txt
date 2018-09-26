@@ -1,0 +1,4 @@
+string str;
+        string arr;
+        string arr2D;
+      

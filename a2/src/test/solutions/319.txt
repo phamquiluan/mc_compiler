@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(foo),List(),ArrayType(IntType),Block(List(),List())),FuncDecl(Id(getText),List(),ArrayType(StringType),Block(List(),List())),FuncDecl(Id(isRealNumber),List(),ArrayType(FloatType),Block(List(),List()))))

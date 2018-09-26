@@ -1,0 +1,9 @@
+int arr[4];
+        void main () {
+         int iNum, i , j;
+         arr[0] = arr[1] = arr[2] = 10;
+         i = -arr[0];
+         j = -arr[1];
+         iNum = i + j;
+         putIntLn(iNum);
+        }

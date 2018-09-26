@@ -1,0 +1,10 @@
+
+        string getString(){return "Abc";}
+        void func(){ }
+        void main(){
+            func();
+            getString();
+            haha();
+        }
+        boolean haha(){ }
+        

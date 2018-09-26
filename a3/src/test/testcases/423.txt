@@ -1,0 +1,7 @@
+
+        int number;
+        void main(){
+            int a,b;
+            float fNum;
+        }
+        int main;

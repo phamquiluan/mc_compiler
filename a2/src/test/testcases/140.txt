@@ -1,0 +1,1 @@
+iNum||fNum&&dNum

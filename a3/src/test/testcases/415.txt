@@ -1,0 +1,4 @@
+
+        int number, iNum, iNum;
+        void main(){}
+        

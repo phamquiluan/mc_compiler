@@ -1,0 +1,10 @@
+float arr[4];
+        void main () {
+         float fNum, i , j;
+         arr[0] = arr[1] = 11.5;
+         arr[2] = 8.5;
+         i = -arr[0] + -arr[1];
+         j = -arr[2]*3;
+         fNum = i + j;
+         putFloatLn(fNum);
+        }

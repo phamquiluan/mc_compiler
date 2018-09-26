@@ -1,0 +1,7 @@
+int main(){
+        int a, b, arr[10];
+        boolean isTrue, isFact;
+        string str;
+        foo(2)[foo(2)[foo(2)]] = compare(a,b)[arr[foo(2)[15]]];
+        foo(arr, arr)[compare(a,b)[25]+ compare(b,a)[29]] = foo(a,b,c,arrp[1])[2];
+      }

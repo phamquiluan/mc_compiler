@@ -1,0 +1,6 @@
+
+            void main(){a();}
+            int a(){
+                int a,a;
+            }
+            

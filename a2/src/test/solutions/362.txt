@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(),List(If(BinaryOp(>,Id(a),IntLiteral(5)),If(BinaryOp(!=,Id(a),Id(prime)),If(BinaryOp(==,BinaryOp(%,Id(a),IntLiteral(15)),IntLiteral(1)),If(BinaryOp(<,Id(a),IntLiteral(100)),CallExpr(Id(foo),List(Id(a),Id(max))),None),None),None),None))))))

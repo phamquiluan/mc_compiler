@@ -1,0 +1,3 @@
+int[] getSum(int Sum[], int count){}
+                   string[] getText(string arr[], int length){}
+                  float[] isRealNumber(float fNum[], float dNum, boolean isTrue[]){}

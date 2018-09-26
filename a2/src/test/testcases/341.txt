@@ -1,0 +1,10 @@
+int iNum, max_level[5];
+        string str,arr;
+        boolean isTrue, isFact[5];
+        void main(int iNum){}
+        int[] foo(int number[], int c, int d){}
+        int[] maxst(int a, int Number){}
+        boolean isFalse;
+        int fNumber;
+        int getFloat(float fNumber, boolean isFact[]){}
+      

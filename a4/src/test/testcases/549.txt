@@ -1,0 +1,14 @@
+string a, b;
+         string gArr[4];
+         void main () {
+          string arr[4];
+          string c,d;
+          c = "ccc";
+          c = d = "cd";
+          a = c;
+          b = d = "string";
+          arr[0] = "strDemo";
+          gArr[0] = arr[0] = "stringDemo";
+          gArr[1] = gArr[2] = arr[2] = arr[0];
+          putStringLn(gArr[1]);
+         }

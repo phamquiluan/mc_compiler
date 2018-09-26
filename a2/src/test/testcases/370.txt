@@ -1,0 +1,11 @@
+int main(){
+          for(i=0;i<iNum;i=i+2){
+            for(j=0;j<i;j=j+1){
+              for(k=0;k<j; k= k+1){
+                for(l=0;l<k;l=l+2){
+                  getText(i,j,k,l);
+                }
+              }
+            }
+          }
+         }

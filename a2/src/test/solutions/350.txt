@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(),List(Dowhile(List(Block(List(VarDecl(Id(a),IntType)),List())),BooleanLiteral(True)))))))

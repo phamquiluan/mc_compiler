@@ -1,0 +1,17 @@
+float arr[10];
+  int func(int par1, float par2){
+    if (a != 1)
+    continue;
+  }
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+  }
+  void main() {
+    int abc;
+    if (arr[arr[2]] == arr[arr[3]])
+      i = j;
+    else
+      break;
+    return ;
+  }

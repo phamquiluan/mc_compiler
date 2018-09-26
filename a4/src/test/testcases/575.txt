@@ -1,0 +1,19 @@
+int a,b,c;
+        float fa,fb,fc;
+        void main () {
+         int arr[3];
+         boolean isTrue, isT, isF;
+         a = 10;
+         b = a * 2;
+         c = b / 7;
+         arr[0] = c + b/2;
+         arr[1] = a/2 + c/3;
+         arr[2] = b*a/4 + c/4;
+         fa = (arr[0]*b/a)-(c*arr[2]-arr[1]);
+         fb = a*(fa+arr[2])*(c-arr[1]);
+         fc = fa * fb / arr[2];
+         isT = fa < fc;
+         isF = fb >= fa;
+         isTrue = isT || isF && (a = a + 3) < 17 || (c = a + 7) != 19 && (arr[2] = b + c) != 11;
+         putInt(arr[2]);
+        }

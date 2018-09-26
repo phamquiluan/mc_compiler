@@ -1,0 +1,4 @@
+int[] getSum(int Sum[], int size){}
+                   string getText(string arr[], int length){}
+                   float isRealNumber(float fNum[], boolean isFalse){}
+                   boolean[] isFact(boolean isTrue[], int size){}

@@ -1,0 +1,9 @@
+
+        int foo(){
+            for(h; iNum < 10; iNum = iNum *2){ }
+            return 1;
+        }
+        void main(){
+            foo();
+        }
+        

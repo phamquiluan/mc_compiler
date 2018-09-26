@@ -1,0 +1,2 @@
+int variable1, variable2[3];
+  void main() {}

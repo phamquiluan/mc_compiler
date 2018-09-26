@@ -1,0 +1,8 @@
+int main(){
+          for(i=0;i<iNum;i=i+2){
+            max(i);
+            min(iNum);
+            compare(max(i), min(iNum));
+            foo(max(min(i)));
+          }
+         }

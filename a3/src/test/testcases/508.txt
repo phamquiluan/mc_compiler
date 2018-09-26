@@ -1,0 +1,13 @@
+
+        int a[10],b;
+        void main(){
+            string str;
+            int iNum;
+            float arr[10];
+            float fNum;
+            boolean isTrue;
+            isTrue = true;
+            fNum = 15;
+            fNum != 15;
+        }
+        

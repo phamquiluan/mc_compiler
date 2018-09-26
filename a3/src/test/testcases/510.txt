@@ -1,0 +1,11 @@
+
+        void main(){
+            foo();
+        }
+        void foo(){
+            do{
+                2;
+            } while (true);
+            break;
+        }
+        

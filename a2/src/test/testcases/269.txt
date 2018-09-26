@@ -1,0 +1,21 @@
+float foo(){
+    for ( i=0;i<n;i=i+1)
+      if(a<b)
+        a=a+1;
+      else
+        a=a-1;
+  }
+  void main() {
+  int abc;
+  int x,y;
+  float ft;
+  ft = foo();
+  abc = foo();
+  for( abc = 1; xyz == true; abc = abc + 1)
+      if(abc == 1)
+        abc = 0;
+      else
+        do abc = abc + 1;
+        while xyz != false;
+  return 0;
+  }

@@ -1,0 +1,5 @@
+int iNum, max_level;
+        string str,arr;
+        boolean isTrue, isFact;
+        void main(){}
+        int foo(){}

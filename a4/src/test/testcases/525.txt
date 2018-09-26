@@ -1,0 +1,9 @@
+int a;
+         float b;
+         string str;
+         int arr[5];
+         void main () {
+          str = "testString";
+          putStringLn(str);
+         }
+         

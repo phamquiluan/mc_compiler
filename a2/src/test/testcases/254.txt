@@ -1,0 +1,6 @@
+boolean xyz;
+  void main() {
+    int abc;
+    xyz = false;
+    abc = false;
+  }

@@ -1,0 +1,18 @@
+ void main () {
+                    if(a>5){
+                        if(a!=prime){
+                            foo(a);
+                        }
+                        else{
+                            foo(5);
+                        }
+                    }
+                    else{
+                        if(a==fact(10)){
+                            foo(fact(10));
+                        }
+                        else{
+                            foo(a*15);
+                        }
+                    }
+                }

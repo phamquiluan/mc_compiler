@@ -1,0 +1,1 @@
+ void foo(){ str ="natsu\g"}

@@ -1,0 +1,7 @@
+int main(){
+        int iNum, size, length;
+        string str[10];
+        boolean isFact;
+        float fNum, number[5];
+        int arr[10];
+        }

@@ -1,0 +1,9 @@
+// ham tinh so mu
+             int power(int, int);
+             void main(void)
+             {
+             printf("2 mu 2 = %d.
+", power(2, 2));
+             printf("2 mu 3 = %d.
+", power(2, 3));
+             }

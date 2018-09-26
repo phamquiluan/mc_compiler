@@ -1,0 +1,9 @@
+
+        void main(){ foo(1,1); }
+        int foo(int a,float b){
+            if(true){ } 
+            else {
+                return 2;
+            } 
+        }
+        

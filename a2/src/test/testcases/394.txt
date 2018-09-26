@@ -1,0 +1,25 @@
+
+    void quickSort(int arr[], int left, int right) {
+      int i,j;
+      int tmp;
+      int pivot; 
+      i = left;
+      j = right;
+      pivot = arr[(left + right) / 2];
+      if((i > j)){
+        continue;
+      }
+      do{
+        if (i <= j) {
+          tmp = arr[i];
+          arr[i] = arr[j];
+          arr[j] = tmp;
+          i = i + 1;
+          j = j - 1;
+        }
+      }while (i <= j);
+      if (left < j)
+            quickSort(arr, left, j);
+      if (i < right)
+            quickSort(arr, i, right);
+    }

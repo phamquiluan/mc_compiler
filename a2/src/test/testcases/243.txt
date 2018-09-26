@@ -1,0 +1,8 @@
+void main() {
+  int abc;
+  void func(float abc) {
+    boolean xyz;
+    xyz = false;
+  }
+  return 0;
+  }

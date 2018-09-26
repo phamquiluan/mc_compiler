@@ -1,0 +1,10 @@
+int a;
+            float b;
+            float frr[4];
+            string aStr[4];
+            void main () {
+                int a;
+                float b;
+                int arr[5];
+            }
+         

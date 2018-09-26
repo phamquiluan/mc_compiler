@@ -1,0 +1,1 @@
+Type Mismatch In Expression: BinaryOp(=,CallExpr(Id(foo),List(Id(iNum))),Id(arr))

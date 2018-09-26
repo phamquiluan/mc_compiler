@@ -1,0 +1,15 @@
+
+        int a[10],c;
+        int foo(int size, int arr[]){
+            int iNum;
+            do{
+                iNum = 1;
+            }while(numberOne);
+
+            return 1;
+        }
+        void main(){
+            int a[1];
+            foo(10,a);
+        }
+        

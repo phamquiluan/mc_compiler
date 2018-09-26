@@ -1,0 +1,2 @@
+int[] func(boolean abc, float xyz) {int x1; float x2;}
+  void main() {}

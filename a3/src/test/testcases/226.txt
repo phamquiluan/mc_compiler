@@ -1,0 +1,8 @@
+int func(int par1, float par2){
+  if (a != 1)
+    continue;
+  else
+    break;
+  return a;
+  }
+  void main() {}

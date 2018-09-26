@@ -1,0 +1,1 @@
+void main () {writeIntLn(3);}

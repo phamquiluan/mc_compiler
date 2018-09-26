@@ -1,0 +1,9 @@
+boolean check(){
+    if(a>x)
+      return a;
+    else
+      return x;
+  }
+  void main() {int abc;
+  continue;
+  }

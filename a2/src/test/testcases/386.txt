@@ -1,0 +1,10 @@
+int main(){
+        int a, b, arr[10];
+        boolean isTrue, isFact;
+        string str;
+        float fNum;
+        isFact = -isTrue;
+        isFact = !isFact;
+        isTrue = ----isFact;
+        isTrue = isTrue = !!isTrue = -!-!isTrue;
+      }

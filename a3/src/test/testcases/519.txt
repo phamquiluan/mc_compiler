@@ -1,0 +1,11 @@
+
+        void main(){ }
+        float f;
+        int checkOddNumber(int n){
+            if(n%2==0)
+                return n;
+            else
+                return checkOddNumber(n+1);
+            n=1%n;
+        }
+        

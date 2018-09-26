@@ -1,0 +1,12 @@
+void main () {
+          if(a>5){
+             int arr[10];
+             string str, charStr;
+             boolean isTrue, isFact, isFalse;
+             float fNum;
+             do{
+               a= a+5;
+               foo(2);
+             }while (a!=100);
+          }
+        }

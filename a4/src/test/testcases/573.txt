@@ -1,0 +1,13 @@
+int a,b,c;
+        float fa,fb,fc;
+        void main () {
+         boolean isTrue;
+         a = 1;
+         b = a + 1;
+         c = b % 1;
+         fa = (a+b)/(c+a);
+         fb = (fa+a)/(c+b);
+         fc = fa * fb / c;
+         isTrue = fa <= fb;
+         putBoolLn(isTrue);
+        }

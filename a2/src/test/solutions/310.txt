@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(foo),List(),BoolType,Block(List(),List()))))

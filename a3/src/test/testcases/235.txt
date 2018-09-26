@@ -1,0 +1,9 @@
+void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[5]) + 123123;
+  }
+  void main() {
+    int abc;
+    continue;
+    putFloat(i);
+  }

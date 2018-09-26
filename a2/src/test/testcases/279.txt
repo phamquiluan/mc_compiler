@@ -1,0 +1,15 @@
+float foo(){
+    if (a<b)
+      a=a+1;
+    else
+      a-1;
+    }
+  boolean check(){
+    if(a>x)
+      return a;
+    else
+      return x;
+  }
+  void main() {int abc;
+  continue;
+  }

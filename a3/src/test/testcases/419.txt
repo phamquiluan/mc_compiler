@@ -1,0 +1,10 @@
+
+            int foo(){
+                { 
+                    int i,j,j;
+                } 
+            }
+            void main(){
+                foo();
+            }
+            

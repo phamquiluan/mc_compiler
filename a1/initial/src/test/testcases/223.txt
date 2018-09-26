@@ -1,0 +1,5 @@
+int func() {
+  float abc;
+  continue;
+  }
+  void main() {}

@@ -1,0 +1,18 @@
+int a,b,c;
+        int arr[3];
+        float fa,fb,fc;
+        float frr[4];
+        void main () {
+         float fNum;
+         arr[0] = arr[1] = arr[2] = 3;
+         a = 3;
+         b = a + 2;
+         c = b + a + 3;
+         fNum = a + b + arr[0] - 1;
+         fa = fNum + c;
+         fb = fa + a;
+         fc = fb + b;
+         frr[0] = fa + fb + fc;
+         frr[1] = frr[0] + a + b +c;
+         putFloatLn(frr[1]);
+        }

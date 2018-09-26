@@ -1,0 +1,9 @@
+
+        int a[10],c;
+        void main(){
+            int size;
+            float j;
+            int i;
+            for(i=1; i < 10; 14.3){ }
+        }
+        

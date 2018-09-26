@@ -1,0 +1,1 @@
+boolean man(int a, int b){ int c; man();}

@@ -1,0 +1,15 @@
+void func(float abc) {
+    boolean xyz;
+    xyz = false;
+    int subFunc(boolean bl) {
+      if(bl = false)
+        xyz = true;
+      else
+        xyz = false;
+      return 0;
+    }
+  }
+  void main() {
+  int abc;
+  return 0;
+  }

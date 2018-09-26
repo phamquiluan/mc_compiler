@@ -1,0 +1,18 @@
+int subFunc(boolean bl) {
+    xyz = false;
+    if(bl = false)
+      xyz = true;
+    else
+      xyz = false;
+    return 0;
+  }
+  void foo ( int i ) {
+    int i,j,k[5];
+    float arr[10];
+    i = (j + i) /(j + k[arr[1]]) + 123123 + subFunc(true);
+  }
+  void[] main() {
+  int abc;
+  continue;
+
+  }

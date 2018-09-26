@@ -1,0 +1,10 @@
+int a;
+         float b;
+         float frr[4];
+         int arr[5];
+         string aStr[4];
+         void main () {
+         }
+         void funcVoid(){
+         }
+         

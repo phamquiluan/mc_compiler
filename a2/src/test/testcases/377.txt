@@ -1,0 +1,8 @@
+int foo(int arr[], int iNum, boolean isTrue){
+          return isTrue;
+          return arr[0] = iNum %6;
+          return iNum = iNum + 19;
+          return arr[1] = arr[0] + iNum;
+          return foo(arr, iNum, isTrue);
+          return iNum;
+        }

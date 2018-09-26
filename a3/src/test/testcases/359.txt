@@ -1,0 +1,14 @@
+void main () {
+          if(a>5){
+            do{
+              a= a+5;
+              foo(2);
+            }while (a!=100);
+          }
+          else{
+            do{
+              a = a * 2;
+              compare(a,max);
+            }while (a!=144);
+          }
+        }

@@ -1,0 +1,7 @@
+int iNum, max_level[5];
+        string str,arr;
+        boolean isTrue, isFact[5];
+        void main(int iNum, int size[]){}
+        int[] foo(int number[], int size){}
+        int[] maxst(int a, int b, int arr[]){}
+      

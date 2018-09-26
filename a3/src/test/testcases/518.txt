@@ -1,0 +1,9 @@
+
+        void main(){
+            do
+                {continue;}
+                {1;}
+            while(true);
+            return;
+        }
+        

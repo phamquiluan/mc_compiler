@@ -1,0 +1,1 @@
+int variable1, variable2[];

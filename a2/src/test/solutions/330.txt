@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(),List())),VarDecl(Id(max_size),IntType),FuncDecl(Id(foo),List(),IntType,Block(List(),List())),VarDecl(Id(iNum),IntType),VarDecl(Id(str),StringType),VarDecl(Id(isTrue),BoolType),FuncDecl(Id(maxStr),List(VarDecl(Id(str),StringType)),IntType,Block(List(),List()))))

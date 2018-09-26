@@ -1,0 +1,7 @@
+int main(){
+        int a, b, arr[10];
+        boolean isTrue, isFact;
+        string str;
+        (arr[0])[10] = arr[5]*2;
+        foo(2)[10] = foo(2) + a + b;
+      }

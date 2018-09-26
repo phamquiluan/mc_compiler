@@ -1,0 +1,7 @@
+
+        void main () {
+         int a;
+         boolean isTrue;
+         isTrue = (a=1) != 1 || (a=3) != 3 || (a=9) != 5 || (a=8) != 8;
+         putIntLn(a);
+        }

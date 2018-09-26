@@ -1,0 +1,19 @@
+boolean xyz;
+  int abc;
+  int subFunc(boolean bl) {
+    xyz = false;
+    for( abc = 1; xyz == true; abc = abc + 1)
+      if(abc == 1)
+        abc = 0;
+      else
+        abc = 1;
+    return 0;
+  }
+  void main() {
+  int abc;
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+  }
+  return 0;
+  }

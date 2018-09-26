@@ -1,0 +1,7 @@
+void main () {
+          if(a>5){
+            if(a!=prime){
+              foo(a);
+            }
+          }
+        }

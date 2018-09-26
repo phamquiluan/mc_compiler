@@ -1,0 +1,7 @@
+int a, b;
+         void main () {
+          float fNum;
+          fNum = 19;
+          putFloat(fNum);
+         }
+         

@@ -1,0 +1,6 @@
+int iNum;
+        string str;
+        boolean isTrue;
+        void main(){}
+        int foo(){}
+      

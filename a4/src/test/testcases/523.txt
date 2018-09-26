@@ -1,0 +1,8 @@
+int a;
+         float b;
+         int arr[5];
+         void main () {
+          b = 10.5;
+          putFloatLn(b);
+         }
+         

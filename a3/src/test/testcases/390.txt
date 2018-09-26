@@ -1,0 +1,9 @@
+int main(){
+        int a, b, arr[10];
+        boolean isTrue, isFact;
+        string str;
+        fact(foo(2) + a + b,10);
+        foo(str, a + 10 + b * 15);
+        compare(a,a + 10 + b * 15,isTrue);
+        getChar(str, a + 10 + b * 15);
+      }

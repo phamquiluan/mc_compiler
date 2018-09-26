@@ -1,0 +1,12 @@
+void main(){
+             int i;
+             ramdon(i);
+             if(i>10){
+               break;
+             }
+             else{
+               println(i);
+               goto(ramdon(i));
+             }
+             return ;
+            }

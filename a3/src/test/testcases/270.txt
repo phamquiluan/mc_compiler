@@ -1,0 +1,18 @@
+float foo(){
+    for ( i=0;i<n;i=i+1)
+      if(a<b)
+        a=a+1;
+      else
+        a=a-1;
+  }
+  void func( int i ) {
+    int i,j,k[5];
+    float arr[10];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+    j = foo() + k[2];
+  }
+  void main() {
+    int abc;
+    continue;
+    putFloat(i);
+  }

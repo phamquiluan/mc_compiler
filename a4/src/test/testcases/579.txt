@@ -1,0 +1,9 @@
+
+        void main () {
+         int a;
+         a = 1;
+         test(a);
+        }
+        void test(int a){
+         putInt(a);
+        }

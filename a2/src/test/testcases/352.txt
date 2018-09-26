@@ -1,0 +1,6 @@
+void main () {
+        do{
+         a = a + 3;
+         isTrue = 3 > 5;
+         a*(b+5)/15*(9*8*7*arr);
+         } while (a!=b);}

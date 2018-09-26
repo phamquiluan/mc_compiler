@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(),List(Dowhile(List(Block(List(VarDecl(Id(a),IntType),VarDecl(Id(arr),ArrayType(IntLiteral(10),StringType)),VarDecl(Id(lengthStr),IntType),VarDecl(Id(size),IntType)),List())),BinaryOp(!=,Id(a),Id(b))))))))

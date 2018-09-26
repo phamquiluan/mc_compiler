@@ -1,0 +1,5 @@
+void main(){}
+        int foo(){}
+        int iNum;
+        string str;
+        boolean isTrue;

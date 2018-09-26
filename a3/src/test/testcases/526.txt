@@ -1,0 +1,6 @@
+
+        void main(){ foo(3); }
+        int foo(int b){
+            for(1;true;1) return 1;
+        }
+        

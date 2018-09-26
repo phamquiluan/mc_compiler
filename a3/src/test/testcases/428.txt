@@ -1,0 +1,18 @@
+
+        int number[10];
+        void main(){
+            int ar,b;
+            float fNum;
+            foo(1,2,"a");
+        }
+        int foo(int a, int b, string str){
+            int ar, br;
+            {
+                int a;
+                {
+                    int abc;
+                    int abc;
+                }
+            }
+        }
+        float numberOne;

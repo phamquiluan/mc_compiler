@@ -1,0 +1,16 @@
+
+        void main(){
+            for(1;true;1) { 
+                do if(true) break; else {continue;} while(true); if(true) continue; }
+                do if(true) continue; else {continue;} while(true);
+                if(false) { } 
+                else { { 
+                    { 
+                        { 
+                            { int a; continue; } 
+                        } 
+                    } 
+                } 
+            }
+        }
+        

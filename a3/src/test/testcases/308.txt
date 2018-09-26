@@ -1,0 +1,5 @@
+string str,a2D[4];
+        int arr,brr;
+        float arr2D,arr3D[5];
+        boolean isTrue,isFact;
+      

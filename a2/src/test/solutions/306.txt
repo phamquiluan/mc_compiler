@@ -1,0 +1,1 @@
+Program(List(VarDecl(Id(str),StringType),VarDecl(Id(arr),StringType),VarDecl(Id(arr2D),StringType)))

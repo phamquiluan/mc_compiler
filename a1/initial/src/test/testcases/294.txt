@@ -1,0 +1,40 @@
+boolean xyz;
+  int abc;
+  int subFunc(boolean bl) {
+    xyz = false;
+    do abc = abc + 1;
+    while xyz != false;
+    return 0;
+  }
+  float foo(float x, float y){
+    x;
+    foo(x+y);
+    y;
+  }
+  boolean check(){
+    if(a>x)
+      return a;
+    else
+      if (a != 1)
+        for(a = 10; a < 20; a = a + 1 )
+            i = i + 1;
+      else
+        foo(x+y);
+    y;
+  }
+  void main() {
+  int abc;
+  int x,y;
+  for( abc = 1; xyz == true; abc = abc + 1)
+      if(abc == 1)
+        abc = 0;
+      else
+        do abc = abc + 1;
+        while xyz != false;
+  return 0;
+  }
+  void[] main() {
+  int abc;
+  continue;
+
+  }

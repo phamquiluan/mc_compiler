@@ -1,0 +1,13 @@
+boolean xyz;
+  int subFunc(boolean bl) {
+    xyz = false;
+    if(bl = false)
+      xyz = true;
+    else
+      xyz = false;
+    return 0;
+  }
+  void main() {
+  int abc;
+  return 0;
+  }

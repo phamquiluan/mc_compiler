@@ -1,0 +1,7 @@
+void main () {
+          if(a>5)
+            if(a!=prime)
+              if(a%15==1)
+                if(a<100)
+                  foo(a,max);
+        }

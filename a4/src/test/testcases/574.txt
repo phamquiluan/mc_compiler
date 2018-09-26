@@ -1,0 +1,15 @@
+int a,b,c;
+            float fa,fb,fc;
+            void main () {
+             boolean isTrue, isT, isF;
+             a = 10;
+             b = a * 2;
+             c = b / 7;
+             fa = (a*b)-(c/a);
+             fb = a*(fa+a)*(c-b);
+             fc = fa * fb / c;
+             isT = fa < fc;
+             isF = fb >= fa;
+             isTrue = isT ==isF;
+             putBoolLn(isTrue);
+            }

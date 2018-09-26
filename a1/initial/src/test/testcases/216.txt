@@ -1,0 +1,2 @@
+int func(int par1, float par2){}
+  void main() {}

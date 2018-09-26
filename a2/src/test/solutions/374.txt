@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(VarDecl(Id(i),IntType)),List(CallExpr(Id(ramdon),List(Id(i))),If(BinaryOp(>,Id(i),IntLiteral(10)),Block(List(),List(Break)),Some(Block(List(),List(CallExpr(Id(println),List(Id(i))),CallExpr(Id(goto),List(CallExpr(Id(ramdon),List(Id(i))))))))),Return(Some(CallExpr(Id(pow),List(Id(i),Id(i))))))))))

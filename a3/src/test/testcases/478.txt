@@ -1,0 +1,16 @@
+
+        int a[10],c;
+        float[] foo(){
+            float h[10];
+            return h;
+        }
+        float complex(){
+            int size;
+            string arr[10];
+            float j[10];
+            boolean isTrue[10];
+            int i;
+            return foo();
+        }
+        void main(){complex();}
+        

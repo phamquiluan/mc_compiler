@@ -1,0 +1,9 @@
+
+        void main() {
+            int i;
+            for (i; i < 5; i = i + 2) {
+              i = i + 1;
+            }
+            continue;
+        }
+        

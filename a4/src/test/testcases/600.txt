@@ -1,0 +1,12 @@
+
+        void main () {
+         string arr[3];
+         arr[2]="stringMain";
+         arr[2] = foo(arr)[2];
+         putStringLn(arr[2]);
+        }
+        string[] foo(string x[]){
+         x[2] = "stringFoo";
+         return x;
+        }
+        

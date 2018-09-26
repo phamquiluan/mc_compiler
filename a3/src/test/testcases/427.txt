@@ -1,0 +1,14 @@
+
+        int number[10];
+        void main(){
+            int ar,b;
+            float fNum;
+            foo(1,2,"hihi");
+        }
+        int foo(int a, int b, string str){
+            int ar, br;
+        }
+        float numberOne;
+        void foo(int a, int c){
+
+        }

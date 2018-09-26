@@ -1,0 +1,6 @@
+void main () {
+        do{
+         int a;
+         string arr[10];
+         int lengthStr, size;
+         } while (a!=b);}

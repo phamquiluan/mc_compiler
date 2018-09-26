@@ -1,0 +1,3 @@
+int[] foo(int number[], int iNum[]){}
+                  string[] getText(string arr[], string length[]){}
+                  float[] isRealNumber(float fNum[], boolean isTrue[]){}

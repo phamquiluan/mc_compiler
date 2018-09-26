@@ -1,0 +1,12 @@
+
+        void main () {
+         int a, b;
+         boolean isTrue;
+         int arr[2];
+         a = 10;
+         b = 11;
+         arr[0] = b%a + a;
+         arr[1] = a%b + b;
+         isTrue = arr[1] != arr[0];
+         putBoolLn(isTrue);
+        }

@@ -1,0 +1,8 @@
+int foo(int a){
+        int a;
+        float arr;
+        }
+        void main(){
+            foo(1);
+        }
+        

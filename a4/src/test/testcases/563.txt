@@ -1,0 +1,11 @@
+float arr[4];
+        void main () {
+         boolean isTrue;
+         int a, b, arr[2];
+         isTrue = false;
+         a = 14;
+         b = 12;
+         arr[0] = 14;
+         isTrue = arr[0] == a;
+         putBoolLn(isTrue);
+        }

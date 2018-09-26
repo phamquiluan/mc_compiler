@@ -1,0 +1,1 @@
+for(int i = 1; i <= rows; i=i+2)

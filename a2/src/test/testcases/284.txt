@@ -1,0 +1,18 @@
+int[] func(boolean abc, float xyz) {
+  int x1;
+  float x2;
+  if (a != 1)
+    for(a = 10; a < 20; a = a + 1 )
+       i = i + 1;
+  else
+    break;
+  }
+  boolean check(){
+    if(a>x)
+      return a;
+    else
+      return x;
+  }
+  void main() {int abc;
+  continue;
+  }

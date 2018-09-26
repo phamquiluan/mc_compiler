@@ -1,0 +1,12 @@
+int main(){
+          for(i=0;i<iNum;i=i+2){
+            k = foo(i,pow(i,3));
+            if(k>144){
+              break;
+            }
+            else{
+              continue;
+            }
+            println(k);
+          }
+         }

@@ -1,0 +1,12 @@
+
+        int a[10],c;
+        void main(){
+            int arr[10];
+            float fNum;
+            boolean isTrue;
+            fNum = 1;
+            arr[1] = 1;
+            arr[2] = arr[1];
+            arr["isTrue"];
+        }
+        

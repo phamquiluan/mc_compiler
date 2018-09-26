@@ -1,0 +1,16 @@
+float foo(float x, float y){
+    x;
+    foo(x+y);
+    y;
+  }
+  void main() {
+  int abc;
+  int x,y;
+  for( abc = 1; xyz == true; abc = abc + 1)
+      if(abc == 1)
+        abc = 0;
+      else
+        do abc = abc + 1;
+        while xyz != false;
+  return 0;
+  }

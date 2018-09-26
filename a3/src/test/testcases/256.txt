@@ -1,0 +1,17 @@
+boolean xyz;
+  int abc;
+  void main() {
+  int abc;
+  for( abc = 1; xyz == true; abc = abc + 1)
+      if(abc == 1)
+        abc = 0;
+      else
+        abc = 1;
+  do abc = abc + 1;
+  while xyz != false;
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + ASDASDASDA;
+  }
+  return 0;
+  }

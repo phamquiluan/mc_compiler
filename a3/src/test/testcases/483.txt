@@ -1,0 +1,7 @@
+
+        void main(){
+            int arr[10];
+            int b;
+            arr[b];
+        }
+        

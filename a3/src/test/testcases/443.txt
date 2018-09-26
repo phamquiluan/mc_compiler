@@ -1,0 +1,9 @@
+int a[10],c;
+         void main(){
+            int size;
+            int i;
+            if(10.5){
+                i = 0;
+            }
+         }
+        

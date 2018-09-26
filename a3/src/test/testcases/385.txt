@@ -1,0 +1,14 @@
+int main(){
+        int a, b, arr[10];
+        boolean isTrue, isFact;
+        string str;
+        float fNum;
+        a = b = 10;
+        str = "phamvanlinh";
+        isTrue = a != 10;
+        arr[1] = a + 10 + b * 15;
+        arr[2] = a - b + b / 25;
+        arr[3] = a / 2 - 10 - str;
+        arr[4] = b*a;
+        arr[5] = (a%10)%2;
+      }

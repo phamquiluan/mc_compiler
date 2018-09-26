@@ -1,0 +1,6 @@
+int main(){
+        int iNum, size, length;
+        string str;
+        boolean isFact;
+        float fNum;
+        }

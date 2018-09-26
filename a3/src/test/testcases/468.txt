@@ -1,0 +1,12 @@
+
+        int a[10],c;
+        int[] complex(){
+            int size;
+            float j;
+            boolean isTrue;
+            int i;
+            isTrue = true;
+            return isTrue;
+        }
+        void main(){ complex();}
+        

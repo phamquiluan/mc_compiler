@@ -1,0 +1,8 @@
+
+         void main(){
+          do if(true) break; else {continue;} while(true);
+          for(1;true;1) { if(true) continue; }
+          do if(false) break; else {} while(true);
+          continue;
+        }
+        

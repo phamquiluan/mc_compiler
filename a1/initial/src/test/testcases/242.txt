@@ -1,0 +1,22 @@
+float arr[10];
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+  }
+  void main() {
+    int abc;
+    if (a != 1)
+      continue;
+
+    if (arr[arr[2]] == arr[arr[3]])
+      i = j;
+    else
+      break;
+
+    for(a = 10; a < 20; a = a + 1 )
+        continue;
+
+    do a = 1;
+    while arr[arr[2]] == arr[arr[3]];
+    return ;
+  }

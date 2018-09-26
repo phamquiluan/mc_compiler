@@ -1,0 +1,9 @@
+
+        void main(){
+            for(1;true;1){
+                break;
+                continue;
+                2;
+            }
+            return;
+        }

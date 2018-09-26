@@ -1,0 +1,9 @@
+
+        void main(){ foo(); }
+        int foo(){
+            int x;
+            do
+                x=0;
+            while(true);
+        }
+        

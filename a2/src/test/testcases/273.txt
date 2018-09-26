@@ -1,0 +1,23 @@
+boolean xyz;
+  int abc[3], xyz[3], XYZ[3];
+  int subFunc(boolean bl) {
+    xyz = false;
+    if(bl = false)
+      xyz = true;
+    else
+      xyz = false;
+    return 0;
+  }
+  int func(int par1, float par2){
+    for(a = 10; a < 20; a = a + 1 )
+      i = i + 1;
+  }
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+    i = i + subFunc(true);
+  }
+  void main() {
+  int abc;
+  return 0;
+  }

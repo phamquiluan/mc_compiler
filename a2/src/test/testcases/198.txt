@@ -1,0 +1,11 @@
+int main(void)
+             {
+                    {int z;
+                     int y;
+                     printf("nhap z:");
+                     scanf("%d",z);
+                     printf("nhap y:");
+                     scanf("%d",y);
+                     printf("%d + %d = %d
+", z, y,add(z, y));
+                     printf ("gia tri tuyet doi cua %d la %d, y, abs(y));}}

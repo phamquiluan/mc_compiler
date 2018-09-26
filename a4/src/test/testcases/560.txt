@@ -1,0 +1,9 @@
+float arr[4];
+        void main () {
+         float a, b;
+         boolean isTrue;
+         a = 11.0;
+         b = 11;
+         isTrue = a <= b ;
+         putBoolLn(isTrue);
+        }

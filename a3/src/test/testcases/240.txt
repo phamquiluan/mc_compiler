@@ -1,0 +1,11 @@
+float arr[10];
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+  }
+  void main() {
+    int abc;
+    for(a = 10; a < 20; a = a + 1 )
+        continue;
+    return ;
+  }

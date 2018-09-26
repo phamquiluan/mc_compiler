@@ -1,0 +1,17 @@
+
+        int a[10],c;
+        int foo(int size, int arr[]){
+            int iNum;
+            if(true){
+                iNum = 1;
+            }
+            else{
+                inum = 10;
+            }
+            return 1;
+        }
+        void main(){
+            int a[1];
+            foo(10,a);
+        }
+        

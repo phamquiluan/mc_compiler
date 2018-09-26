@@ -1,0 +1,12 @@
+void main () {
+          if(a>5){
+            if(a!=prime){
+              foo(a);
+            }
+          }
+          else{
+            if(a==fact(10)){
+              foo(fact(10));
+            }
+          }
+        }

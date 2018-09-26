@@ -1,0 +1,7 @@
+int arr[5];
+         string str[4];
+         void main () {
+          str[0] = "StringGlobal";
+          putStringLn(str[0]);
+         }
+         

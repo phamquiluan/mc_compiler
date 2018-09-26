@@ -1,0 +1,14 @@
+int a, b;
+         int gArr[4];
+         void main () {
+          int arr[4];
+          int c,d;
+          a = 1;
+          b = a = 1;
+          c = a;
+          b = a = c = b;
+          gArr[0] = arr[0] = 1;
+          gArr[1] = gArr[0] = 11;
+          d = gArr[1] = arr[3] = gArr[0] = a = gArr[2] = b = 11;
+          putIntLn(gArr[1]);
+         }

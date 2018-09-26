@@ -1,0 +1,14 @@
+
+        int a[10],c;
+        int foo(int size, int arr[]){
+            int iNum;
+            for(iNum = 1; iNum < 10; iNum = iNum *2){
+                num;
+            }
+            return 1;
+        }
+        void main(){
+            int a[1];
+            foo(10,a);
+        }
+        

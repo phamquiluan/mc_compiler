@@ -1,0 +1,1 @@
+Program(List(VarDecl(Id(iNum),IntType),VarDecl(Id(str),StringType),VarDecl(Id(isTrue),BoolType),FuncDecl(Id(main),List(),VoidType,Block(List(),List())),FuncDecl(Id(foo),List(),IntType,Block(List(),List()))))

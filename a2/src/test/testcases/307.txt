@@ -1,0 +1,5 @@
+string str;
+        int arr;
+        float arr2D;
+        boolean isTrue;
+      

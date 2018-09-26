@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(BooleanLiteral(true),BinaryOp(<,Id(i),IntLiteral(10)),BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1))),Block(List(),List()))

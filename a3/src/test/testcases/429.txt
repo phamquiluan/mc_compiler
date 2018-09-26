@@ -1,0 +1,11 @@
+
+        int a[10],c;
+        int foo(int size, int arr[]){
+            int number;
+            b;
+        }
+        void main(){
+            int a[1];
+            foo(10,a);
+        }
+        

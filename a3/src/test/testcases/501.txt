@@ -1,0 +1,14 @@
+
+        void main(){
+            int iNum;
+            foo(complex(iNum));
+        }
+        int foo(int a[]){
+            int arr;
+            return arr;
+        }
+        float[] complex(int a){
+            float frr[11];
+            return frr;
+        }
+        

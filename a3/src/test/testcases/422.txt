@@ -1,0 +1,6 @@
+
+        int main;
+        void main(){
+            int a,b;
+            float fNum;
+        }

@@ -1,0 +1,5 @@
+int func(int par1, float par2){
+  abc = a[b[2]] + 3;
+    return a = 1;
+  }
+  void main() {}

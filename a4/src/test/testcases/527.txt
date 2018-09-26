@@ -1,0 +1,7 @@
+int arr[5];
+         float frr[4];
+         void main () {
+          frr[0] = 14.3;
+          putFloatLn(frr[0]);
+         }
+         

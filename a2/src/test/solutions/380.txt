@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(foo),List(VarDecl(Id(arr),ArrayType(IntType)),VarDecl(Id(iNum),IntType),VarDecl(Id(isTrue),BoolType)),IntType,Block(List(),List(Block(List(),List(Block(List(),List(Block(List(),List(Block(List(VarDecl(Id(iNum),IntType)),List()))))))))))))

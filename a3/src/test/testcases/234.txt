@@ -1,0 +1,10 @@
+void foo ( int i ) {
+    int i,j,k[5];
+    // ABC XYZ
+  }
+  void main() {
+    int abc;
+    continue;
+    putInt(i);
+  }
+  

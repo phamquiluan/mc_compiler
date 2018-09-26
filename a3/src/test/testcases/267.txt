@@ -1,0 +1,19 @@
+float foo(){
+    int x, arr[3];
+    x=1;
+    arr[0] = arr[1 + arr[2] + x];
+  }
+  void main() {
+  int abc;
+  int x,y;
+  float ft;
+  ft = foo();
+  abc = foo();
+  for( abc = 1; xyz == true; abc = abc + 1)
+      if(abc == 1)
+        abc = 0;
+      else
+        do abc = abc + 1;
+        while xyz != false;
+  return 0;
+  }

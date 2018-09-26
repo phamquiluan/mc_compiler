@@ -1,0 +1,1 @@
+void main () {compare(arr[10]);}

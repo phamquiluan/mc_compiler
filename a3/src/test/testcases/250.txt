@@ -1,0 +1,12 @@
+int func(int par1, float par2){
+    abc = a[b[2]] + 3;
+      return a = 1;
+  }
+  void main() {
+  int abc;
+  void foo ( int i ) {
+    int i,j,k[5];
+    i = (j + i) /(j + k[arr[1]]) + 123123;
+  }
+  return 0;
+  }

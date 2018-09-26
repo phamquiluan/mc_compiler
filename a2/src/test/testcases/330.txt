@@ -1,0 +1,7 @@
+void main(){}
+         int max_size;
+        int foo(){}
+        int iNum;
+        string str;
+        boolean isTrue;
+        int maxStr(string str){}

@@ -1,0 +1,7 @@
+int a,b,c;
+        int arr[3];
+        void main () {
+         arr[0] = arr[1] = arr[2] = 3;
+         b = 10 % arr[0];
+         putIntLn(arr[2]);
+        }
