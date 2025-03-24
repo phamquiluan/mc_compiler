@@ -1,0 +1,9 @@
+int a;
+         float b;
+         boolean isTrue;
+         int arr[5];
+         void main () {
+          isTrue = false;
+          putBoolLn(isTrue);
+         }
+         

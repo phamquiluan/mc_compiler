@@ -1,0 +1,8 @@
+string str1;
+         string str2;
+         void main () {
+          str1 = "strDemo";
+          str2 = str1;
+          putString(str2);
+         }
+         

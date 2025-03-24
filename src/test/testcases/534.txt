@@ -1,0 +1,7 @@
+int a, b;
+         void main () {
+          int arr[5];
+          arr[0] = 111;
+          putInt(arr[0]);
+         }
+         

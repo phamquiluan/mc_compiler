@@ -1,0 +1,9 @@
+
+        void main(){
+          int a,b,c;
+          a=1;
+          b=1;
+          c=2;
+          if(a==2&&b/0==2) putIntLn(c);
+          else putIntLn(b);
+        }

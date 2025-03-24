@@ -1,0 +1,26 @@
+import unittest
+from TestUtils import TestCodeGen
+from AST import *
+
+
+class CheckCodeGenSuite(unittest.TestCase):
+
+    def test_00(self):
+        input ="""  int x,y,z;
+                      void main(){
+                          putInt(func_(25));
+                          putInt(func_(10));
+                          putInt(func_(5));
+                      }
+                      int func_(int i){
+                        do {
+                          for(i=i+1;i<10;i=i+1){
+                            {return i;}
+                          }
+                          if(i>20) return -1;
+                        }
+                        while(i<15);
+                        return -2;
+                      } """
+        expect = "-1-26"
+        self.assertTrue(TestCodeGen.test(input,expect,500))

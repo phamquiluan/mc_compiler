@@ -1,0 +1,14 @@
+int i,j;
+        void main () {
+         int a,b, iSum;
+         i = 10;
+         {
+           float i;
+           i = 11.8;
+           putFloat(i);
+         }
+         {
+           i = 11;
+         }
+         putIntLn(i);
+        }

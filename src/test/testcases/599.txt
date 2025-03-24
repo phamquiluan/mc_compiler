@@ -1,0 +1,13 @@
+
+        void main () {
+         float arr[3];
+         arr[2]=1.5;
+         foo(arr);
+         arr[2] = foo(arr)[2] + 1.1;
+         putFloatLn(arr[2]);
+        }
+        float[] foo(float x[]){
+         x[2] = 5.1;
+         return x;
+        }
+        

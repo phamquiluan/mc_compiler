@@ -1,0 +1,14 @@
+boolean a, b;
+         boolean gArr[4];
+         void main () {
+          boolean arr[4];
+          boolean c,d;
+          c = true;
+          c = d = false;
+          a = c;
+          b = d = false;
+          arr[0] = true;
+          gArr[0] = arr[0] = true;
+          gArr[1] = gArr[2] = arr[2] = d;
+          putBoolLn(gArr[1]);
+         }

@@ -1,0 +1,19 @@
+
+        void main () {
+         int a;
+         a = 2;
+         if(a>5){
+           if(a%2==0)
+             a = a*2;
+           else
+             a = a/2;
+         }
+         else{
+           a = 11;
+           if(a%3==0)
+             a = a*3;
+           else
+             a = a*3/2;
+         }
+         putIntLn(a);
+        }

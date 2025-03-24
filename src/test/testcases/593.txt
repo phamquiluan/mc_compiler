@@ -1,0 +1,13 @@
+
+        void main () {
+         int a,b, iSum;
+         iSum = 0;
+         for(a = 0; a < 10; a = a + 1){
+           if(iSum > 27)
+             break;
+           if(a%3!=0)
+             continue;
+           iSum = iSum + a;
+         }
+         putIntLn(iSum);
+        }

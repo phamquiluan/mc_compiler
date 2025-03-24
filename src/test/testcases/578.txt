@@ -1,0 +1,12 @@
+
+        void main () {
+        
+        }
+        void foo(int a){
+         if(a>1)
+           return;
+          else{
+           a = a + 2;
+           return;
+          }
+        }

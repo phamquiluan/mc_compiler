@@ -1,0 +1,7 @@
+int arr[5];
+         boolean brr[4];
+         void main () {
+          brr[0] = false;
+          putBoolLn(brr[0]);
+         }
+         

@@ -1,0 +1,15 @@
+
+        void main () {
+         int a, iSum;
+         a = 0;
+         iSum = 0;
+         do{
+         a = a + 1;
+         if(a>17)
+           break;
+         if(a%2==0)
+           continue;
+         iSum = iSum + a;
+         }while(a<20);
+         putInt(iSum);
+        }

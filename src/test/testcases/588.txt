@@ -1,0 +1,17 @@
+
+        void main () {
+         int a,b, iSum;
+         a = 0;
+         b = 0;
+         iSum = 0;
+         do{
+         b = 0;
+         a = a + 1;
+         do{
+           b = b +1;
+           iSum = iSum + b;
+         }while(b<a);
+         iSum = iSum + a;
+         }while(a<20);
+         putInt(iSum);
+        }

@@ -1,0 +1,7 @@
+int a, b;
+         void main () {
+          float arr[5];
+          arr[0] = 111.2;
+          putFloat(arr[0]);
+         }
+         

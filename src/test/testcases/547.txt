@@ -1,0 +1,14 @@
+float a, b;
+         float gArr[4];
+         void main () {
+          int arr[4];
+          int c,d;
+          c = 1;
+          c = d = 3;
+          a = c;
+          b = d = 4;
+          arr[0] = 5;
+          gArr[0] = arr[0] = 11;
+          gArr[1] = gArr[2] = arr[2] = c;
+          putFloatLn(gArr[2]);
+         }

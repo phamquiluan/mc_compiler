@@ -1,0 +1,8 @@
+float fNum;
+         string str2;
+         void main () {
+          int iNum;
+          iNum = 14;
+          fNum = iNum;
+          putFloat(fNum);
+         }

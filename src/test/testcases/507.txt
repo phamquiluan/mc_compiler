@@ -1,0 +1,12 @@
+
+        void main(){
+            int a;
+            a = 4;
+            putFloatLn(foo(a));
+        }
+        float foo(int a){
+            int foo;
+            foo = 5;
+            return foo + a;
+        }
+        

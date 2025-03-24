@@ -1,0 +1,26 @@
+
+        void main () {
+         int a,b, iSum;
+         a = 0;
+         b = 0;
+         iSum = 0;
+         do{
+         b = 0;
+         a = a + 1;
+         do{
+           b = b +1;
+           if(b>10)
+             break;
+           if(b%2==1)
+             continue;
+           iSum = iSum + b;
+         }while(b<a);
+         if(a%b==0)
+           continue;
+         if(a+b>40)
+           break;
+         iSum = iSum + a;
+         }while(a<20);
+        
+         putIntLn(iSum);
+        }

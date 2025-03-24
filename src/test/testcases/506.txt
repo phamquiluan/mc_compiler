@@ -1,0 +1,6 @@
+void main(){
+            if(true)
+                putInt(1);
+            else
+                putInt(1);
+         }

@@ -1,0 +1,10 @@
+int a,b,c;
+        int arr[3];
+        void main () {
+         arr[0] = arr[1] = arr[2] = 3;
+         a = 19;
+         b = a + a % arr[0];
+         c = b%a + arr[0]*arr[1];
+         arr[2] = (c*a)%b;
+         putIntLn(arr[2]);
+        }

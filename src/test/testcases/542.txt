@@ -1,0 +1,9 @@
+float fNum;
+         string str[4];
+         void main () {
+          str[0] = "null";
+          str[1] = "text";
+          str[2] = "notNull";
+          str[0] = str[1] = "final";
+          putString(str[0]);
+         }

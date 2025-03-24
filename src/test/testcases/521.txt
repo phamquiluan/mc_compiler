@@ -1,0 +1,13 @@
+int a;
+         float b;
+         float frr[4];
+         void main () {
+          int a;
+          float b;
+          int arr[5];
+         }
+         void funcVoid(int a, string b, int arr[]){
+          int c;
+          float funcFrr[10];
+         }
+         

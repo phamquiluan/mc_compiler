@@ -1,0 +1,11 @@
+float fNum;
+         string str[4];
+         void main () {
+          int arr[4];
+          int a,b;
+          float f;
+          fNum = a = b = 10;
+          f = arr[0]= a;
+          fNum = arr[1] = arr[0] = b = a;
+          putFloatLn(fNum);
+         }

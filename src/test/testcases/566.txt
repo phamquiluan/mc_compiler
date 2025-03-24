@@ -1,0 +1,11 @@
+
+        void main () {
+         boolean a, b, isTrue;
+         boolean arr[3];
+         a = true;
+         b = !true;
+         arr[0] = !!a;
+         arr[1] = !b;
+         isTrue = arr[0] != !arr[1];
+         putBoolLn(isTrue);
+        }
